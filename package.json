@@ -1,0 +1,22 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "goit-node-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sashiy1/goit-node-cli.git"
+  },
+  "author": "Aleksander Paluch <aleksander.paluch@wp.pl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sashiy1/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/Sashiy1/goit-node-cli#readme",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
