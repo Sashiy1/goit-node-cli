@@ -1,22 +1,12 @@
 {
-  "name": "goit-node-cli",
+  "name": "lesson-2",
   "version": "1.0.0",
-  "description": "goit-node-cli",
-  "main": "index.js",
+  "main": "app.js",
+  "type": "module",
   "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sashiy1/goit-node-cli.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aleksander Paluch <aleksander.paluch@wp.pl>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Sashiy1/goit-node-cli/issues"
-  },
-  "homepage": "https://github.com/Sashiy1/goit-node-cli#readme",
-  "dependencies": {
-    "commander": "^12.0.0"
-  }
+  "description": ""
 }
