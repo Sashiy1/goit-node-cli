@@ -8,5 +8,8 @@
   },
   "author": "Aleksander Paluch <aleksander.paluch@wp.pl>",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
 }
